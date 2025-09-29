@@ -17,7 +17,7 @@ uuid = { version = "1.17", features = ["v4", "serde"] }
 dotenvy = "0.15"
 async-trait = "0.1"
 thiserror = "^1"
-convex = "0.9"
+convex = "0.10"
 validator = { version = "0.20", features = ["derive"] }
 jsonwebtoken = "9.3"
 reqwest = { version = "0.12", features = ["json"] }
