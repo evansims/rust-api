@@ -19,7 +19,7 @@ async-trait = "0.1"
 thiserror = "^1"
 convex = "0.9"
 validator = { version = "0.20", features = ["derive"] }
-jsonwebtoken = "9.3"
+jsonwebtoken = "10.0"
 reqwest = { version = "0.12", features = ["json"] }
 base64 = "0.22"
 sysinfo = "0.37"
